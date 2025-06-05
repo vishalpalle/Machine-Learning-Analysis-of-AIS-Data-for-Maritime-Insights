@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+geopandas
+shapely
+psycopg2-binary
+sqlalchemy
+jupyterlab
+geoalchemy2
